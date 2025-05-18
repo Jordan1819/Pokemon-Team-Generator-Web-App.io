@@ -1,9 +1,9 @@
 
 # 🎮 **Pokémon Team Generator Web App** ⚡
 
-## Welcome to the **Pokémon Team Generator**! This is a fun web application that randomly generates a Pokémon team for users. The application was built using **JavaScript**, **HTML**, and **CSS**, and it leverages the **PokeAPI** to fetch Pokémon data and generate teams. 
+Welcome to the **Pokémon Team Generator**! This is a fun web application that randomly generates a Pokémon team for users. The application was built using **JavaScript**, **HTML**, and **CSS**, and it leverages the **PokeAPI** to fetch Pokémon data and generate teams. 
 
-### Click <a href="https://jordan1819.github.io/Pokemon-Team-Generator-Web-App.io/" target="_blank">here</a> to use the app.
+Click <a href="https://jordan1819.github.io/Pokemon-Team-Generator-Web-App.io/" target="_blank">here</a> to use the app!
 
 ---
 
