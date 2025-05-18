@@ -21,7 +21,7 @@ The goal of this project was to enhance my **JavaScript** skills, particularly i
 ## 🌍 **Web Pages** 🖥️
 
 This project consists of two main webpages:
-- **Webpage 1:** Main Pokémon team generator page.
+- **index.html:** Main Pokémon team generator page.
 - **Webpage 2:** Results and details page for the randomly generated team.
 
 Both pages share the same style and JavaScript files for consistency. The Pokémon data is fetched from an **external API** and is not part of this repository.
