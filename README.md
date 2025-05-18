@@ -16,7 +16,6 @@ This project allows users to generate a **random Pokémon team** by utilizing **
 ### 🎯 **Purpose**
 The goal of this project was to enhance my **JavaScript** skills, particularly in working with **JSON files**, **fetching data**, and **external APIs**. Writing the functions to handle file conversions and data manipulation was an excellent challenge, allowing me to gain hands-on experience with dynamic web content generation.
 
-
 ---
 
 ## 🌍 **Web Pages** 🖥️
