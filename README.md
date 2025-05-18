@@ -1,32 +1,71 @@
-# Overview
 
-This project is a web application/ web page that allows the user to generate a random Pokémon team. This is done via JavaScript and involves creating a function that fetches and awaits the conversion of a txt file to json and then filtering and randomizing the results that are displayed to the user.
+# 🎮 **Pokémon Team Generator Web App** ⚡
 
-The user can test this application by cloning the repository and initiating a test server through whatever text editor they are using or by accessing the github pages for this repository.
+Welcome to the **Pokémon Team Generator**! This is a fun web application that randomly generates a Pokémon team for users. The application is built using **JavaScript**, **HTML**, and **CSS**, and it leverages the **PokeAPI** to fetch Pokémon data and generate teams. 
 
-My purpose in creating this project was to experiment more with fetching, converting, and manipulating json files. This page requires a relatively complex JavaScript function to operate, and the process of writing that function was excellent for my understanding of working with json files and accessing external files through the software we create. This project also entailed a good amount of work with CSS and proved to be good practice from a front-end development perspective.
+---
+
+## ✨ **Overview** 🌟
+
+This project allows users to generate a **random Pokémon team** by utilizing **JavaScript** to fetch and convert a **.txt file** to **JSON**, then filter and randomize the Pokémon team results. The app dynamically displays a randomly selected team of Pokémon based on various criteria and user inputs.
+
+### 💻 **How to Use**
+1. Clone this repository and run a local server using your text editor or IDE.
+2. Alternatively, visit the [GitHub Pages](https://jordan1819.github.io/Pokemon-Team-Generator-Web-App.io/) to use the app online.
+
+### 🎯 **Purpose**
+The goal of this project was to enhance my **JavaScript** skills, particularly in working with **JSON files**, **fetching data**, and **external APIs**. Writing the functions to handle file conversions and data manipulation was an excellent challenge, allowing me to gain hands-on experience with dynamic web content generation.
+
+---
+
+## 📊 **Software Demo Video** 🎥
+
+Check out the video to see the app in action:
 
 * [Software Demo Video](https://youtu.be/drLKgO6LnaI)
-* [Access the Web App Here](https://jordan1819.github.io/Pokemon-Team-Generator-Web-App.io/)
 
-# Web Pages
+---
 
-This project includes two webpages backed by the same style and javascript files. The database api that 
-is accessed and manipulated is external and not part of this repository. The Pokemon API database can be located here: [PokeApi](https://pokeapi.co)
+## 🌍 **Web Pages** 🖥️
 
+This project consists of two main webpages:
+- **Webpage 1:** Main Pokémon team generator page.
+- **Webpage 2:** Results and details page for the randomly generated team.
 
-# Development Environment
+Both pages share the same style and JavaScript files for consistency. The Pokémon data is fetched from an **external API** and is not part of this repository.
 
-This software was developed using Microsoft VS Code and utilizes JavaScript, HTML, and CSS.  
+You can find the Pokémon API here: [PokeAPI](https://pokeapi.co)
 
-# Useful Websites
+---
 
-* [Stack Overflow](https://stackoverflow.com)
-* [W3 Schools](https://w3schools.com)
-* [My CodePen](https://codepen.io/Jordan1819)
+## ⚙️ **Development Environment** 💻
 
-# Future Work
+This project was developed using **Microsoft VS Code** and utilizes the following technologies:
 
-* Add animation to transition between webpages.
-* Add filters that users can use to filter Pokemon results by type, name, etc.
-* Allow users to toggle the shiny sprite variant for each Pokemon.
+- **JavaScript**
+- **HTML**
+- **CSS**
+
+---
+
+## 🌐 **Useful Resources** 📚
+
+Here are some of the resources that helped during development:
+
+- [Stack Overflow](https://stackoverflow.com) - For troubleshooting and finding solutions.
+- [W3 Schools](https://w3schools.com) - For learning and reference material on HTML, CSS, and JavaScript.
+- [My CodePen](https://codepen.io/Jordan1819) - To test and experiment with small code snippets.
+
+---
+
+## 🚀 **Future Work** 🔮
+
+Here’s a glimpse of what could be added in future versions of this app:
+
+- **🎨 Animation:** Add smooth transitions and animations between webpages for a more interactive experience.
+- **🔍 Filtering Options:** Allow users to filter Pokémon by various criteria, such as type, name, etc.
+- **✨ Shiny Pokémon Toggle:** Enable users to toggle the **shiny** sprite variant for each Pokémon.
+
+---
+
+Thank you for checking out the **Pokémon Team Generator Web App**! 🧑‍💻 Enjoy generating random Pokémon teams and exploring the world of Pokémon with this fun tool. 🌟
