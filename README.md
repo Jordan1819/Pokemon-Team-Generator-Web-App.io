@@ -52,7 +52,7 @@ Here are some of the resources that helped during development:
 
 ## 🚀 **Future Work** 🔮
 
-Here’s a glimpse of what could be added in future versions of this app:
+Some ideas for what could be added in future versions of this app:
 
 - **🎨 Animation:** Add smooth transitions and animations between webpages for a more interactive experience.
 - **🔍 Filtering Options:** Allow users to filter Pokémon by various criteria, such as type, name, etc.
