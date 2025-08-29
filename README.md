@@ -1,7 +1,7 @@
 
 # 🎮 **Pokémon Team Generator Web App** ⚡
 
-![](screenshots/pkmn1.png)
+![](pkmnimages/pkmn01.png)
 
 Welcome to the **Pokémon Team Generator**! This is a fun, responsive web application that randomly generates a Pokémon team for users. The application was built using **JavaScript**, **HTML**, and **CSS**, and it leverages the **PokeAPI** to fetch Pokémon data and generate teams. This app has been optimized for PC and smartphone use.
 
@@ -35,10 +35,10 @@ You can find the Pokémon API here: [PokeAPI](https://pokeapi.co)
 ## 📱 Screenshots
 ---
 ### PC Browser View
-![](screenshots/pkmn2.png)
+![](pkmnimages/pkmn02.png)
 
 ### Smartphone Browser View
-![](screenshots/pkmn3.png)
+![](pkmnimages/pkmn03.png)
 
 ## ⚙️ **Development Environment** 💻
 
