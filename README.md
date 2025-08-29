@@ -33,7 +33,7 @@ You can find the Pokémon API here: [PokeAPI](https://pokeapi.co)
 ---
 
 ## 📱 Screenshots
----
+
 ### PC Browser View
 ![](pkmnimages/pkmn02.png)
 
